@@ -1,0 +1,39 @@
+.todo{
+    background-color: rgb(213, 222, 151);
+}
+
+.menu{
+    background-color: rgb(217,  250, 120);
+}
+
+.ej{
+    /* color: rgb(224, 132, 94); */
+    color: rgb(175, 173, 255);
+}
+
+.ejmenu{
+    /* color: rgb(224, 132, 94); */
+    color: rgb(175, 173, 255);
+    font-size: 60px;
+    text-align: center;
+}
+
+.ej1{
+    /* color: rgb(224, 132, 94); */
+    color: rgb(150, 0, 250);
+}
+
+.col-6{
+    margin-top: 2%;
+
+}
+
+.col-4{
+    margin-top: 2%;
+}
+
+
+
+.formfinal{
+    margin-top: 8.5%;
+}
